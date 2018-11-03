@@ -1,0 +1,7 @@
+{
+  "generator-theodo-stack": {
+    "appName": "lfafront",
+    "client-required": true,
+    "server-required": true
+  }
+}
